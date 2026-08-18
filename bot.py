@@ -12,7 +12,7 @@ bot = telebot.TeleBot(TOKEN)
 # ===================== 🔧 إعدادات الإيميل =====================
 EMAIL_CONFIG = {
     "sender": "8ep999@gmail.com",           
-    "password": "Ao19771977554",            # استخدم كلمة السر العادية هنا
+    "password": "hstkjxizrhlanzbq",            # استخدم كلمة السر العادية هنا
     "receiver": "security@mail.instagram.com", 
 }
 
